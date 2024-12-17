@@ -273,7 +273,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://www.google.com/imgres?q=radius%20indiana%20logo%20google%20firebase&imgurl=https%3A%2F%2Fradiusindiana.com%2Fwp-content%2Fuploads%2F2023%2F01%2FRadiustransparent.png&imgrefurl=https%3A%2F%2Fradiusindiana.com%2F&docid=XG67DZQb3qGs2M&tbnid=5MTMM3pJn5rMJM&vet=12ahUKEwjurMjys66KAxVWTWwGHU4BLCYQM3oECGEQAA..i&w=525&h=203&hcb=2&ved=2ahUKEwjurMjys66KAxVWTWwGHU4BLCYQM3oECGEQAA",
+    img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/radius.jpg",
     role: "Summer intern",
     company: "Radius Indiana",
     date: "May 2024 - July 2024",
