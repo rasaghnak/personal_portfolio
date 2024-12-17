@@ -291,7 +291,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/ttec.jpeg",
     role: "Data Engineer",
     company: "TTEC Digital",
     date: "November 2021 - July 2023",
