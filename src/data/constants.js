@@ -272,6 +272,24 @@ export const skills = [
 
 export const experiences = [
   {
+    id: 1,
+    img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/ttec.jpeg",
+    role: "Data Engineer",
+    company: "TTEC Digital",
+    date: "November 2021 - July 2023",
+    desc: "Designed and deployed advanced chatbots using Python, AWS services (S3, Glue, SageMaker), and technologies like Neo4j, D3.js, and Node-RED to enhance customer engagement and efficiency. This included a Medicare chatbot leveraging NLP libraries (SpaCy, NLTK) and ETL workflows to boost response accuracy by 35% and reduce handling time by 25%, and a Credit Union chatbot integrated with graph databases to increase user engagement by 45% and cut query resolution time by 30%.",
+    skills: [
+      "AWS",
+      "EC2",
+      "Glue",
+      "Neo4j",
+      "ETL",
+      "TypeScript",
+      "Node Js"
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1696514649120.jpeg?alt=media&token=e7f6757b-edfa-4138-a692-d6709eeef3e2",
+  },
+  {
     id: 0,
     img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/radius.jpg",
     role: "Summer intern",
@@ -312,7 +330,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/iub.png",
     school: "Indiana University Bloomington",
     date: "August 2023 - May 2025",
     desc: "Courses: Applied Algorithms, Applied Machine learning, Statistics, Information visualization, Data visualization ",
@@ -320,7 +338,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/snist.png",
     school: "Sreenidhi Institue of Science and Technology",
     date: "August 2017 - May 2021",
     grade: "88.2%",
@@ -332,23 +350,19 @@ export const education = [
 export const projects = [
   {
     id: 11,
-    title: "DecisionHub",
-    date: "Jan 2024 - Dec 2023",
+    title: "Food Adulteration Trends",
+    date: "Jan 2024",
     description:
       "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
     image:
       "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
     tags: [
-      "React Js",
-      "PostgressSQL",
-      "Node Js",
-      "Express Js",
-      "Redux",
-      "React Flow",
+      "Tableau",
+      "Data Cleaning"
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/DecisionHub",
-    webapp: "https://decisionhub.netlify.app/",
+    github: "https://github.com/rasaghnak/Food-Adulteration-Trends-Dashboard",
+    webapp: "https://public.tableau.com/app/profile/rasaghna.kuturu/viz/InsightsintoFoodAdulteration-TrendsandAnalysis/Dashboard1",
   },
   {
     id: 9,
