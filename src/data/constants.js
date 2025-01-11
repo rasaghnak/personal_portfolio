@@ -40,7 +40,7 @@ export const skills = [
       {
         name: "Geopandas",
         image:
-          "https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Geopandas.png",
       },
     ],
   },
@@ -92,7 +92,7 @@ export const skills = [
       {
         name: "Microsoft Azure",
         image:
-          "https://static-00.iconduck.com/assets.00/google-cloud-platform-logo-icon-2048x1824-pg4wzspq.png",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Azure.png",
       },
       {
         name: "Docker",
@@ -127,7 +127,7 @@ export const skills = [
       {
         name: "Google Colab",
         image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/GoogleColab.png",
       },
       {
         name: "Sk Learn Kit",
@@ -314,22 +314,22 @@ export const education = [
 ];
 
 export const projects = [
-  {
-    id: 11,
-    title: "Food Adulteration Trends",
-    date: "Jan 2024",
-    description:
-      "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
-    image:
-      "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
-    tags: [
-      "Tableau",
-      "Data Cleaning"
-    ],
-    category: "web app",
-    github: "https://github.com/rasaghnak/Food-Adulteration-Trends-Dashboard",
-    webapp: "https://public.tableau.com/app/profile/rasaghna.kuturu/viz/InsightsintoFoodAdulteration-TrendsandAnalysis/Dashboard1",
-  },
+  // {
+  //   id: 11,
+  //   title: "Food Adulteration Trends",
+  //   date: "Jan 2024",
+  //   description:
+  //     "A Rule Builder application “Decision Hub” that empowers Business Analysts to create, save, and visualize decision strategies. Provide a no-code rule writing experience and visual representation to test these rules in real-time and observe the calculations at each step.",
+  //   image:
+  //     "https://github.com/rishavchanda/DecisionHub/raw/master/assets/testRule.jpg",
+  //   tags: [
+  //     "Tableau",
+  //     "Data Cleaning"
+  //   ],
+  //   category: "web app",
+  //   github: "https://github.com/rasaghnak/Food-Adulteration-Trends-Dashboard",
+  //   webapp: "https://public.tableau.com/app/profile/rasaghna.kuturu/viz/InsightsintoFoodAdulteration-TrendsandAnalysis/Dashboard1",
+  // },
   {
     id: 9,
     title: "Notable AI models",
