@@ -20,12 +20,12 @@ export const skills = [
       {
         name: "Tableau",
         image:
-          "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Tableau.png",
       },
       {
         name: "PowerBI",
         image:
-          "https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/powerBi.png",
       },
       {
         name: "Quick Sight",
