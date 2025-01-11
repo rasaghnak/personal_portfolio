@@ -30,12 +30,12 @@ export const skills = [
       {
         name: "Quick Sight",
         image:
-          "https://3.bp.blogspot.com/-VVp3WvJvl84/X0Vu6EjYqDI/AAAAAAAAPjU/ZOMKiUlgfg8ok8DY8Hc-ocOvGdB0z86AgCLcBGAsYHQ/s1600/jetpack%2Bcompose%2Bicon_RGB.png",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Quicksight.png",
       },
       {
         name: "Gephi",
         image:
-          "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBMw6_RdwKQ9bDFfnKDX1iwMl4bVJEvd9PP53XuIw&s",
+          "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Gephi.png",
       },
       {
         name: "Geopandas",
