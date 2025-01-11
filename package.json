@@ -1,7 +1,7 @@
 {
   "name": "3d-portfolio-website",
   "version": "0.1.1",
-  "homepage": "https://rasaghnak.github.io",
+  "homepage": "https://rasaghnak.github.io/personal_portfolio",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^4.1.0",
