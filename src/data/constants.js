@@ -335,15 +335,15 @@ export const projects = [
     title: "Notable AI models",
     date: "Nov 2024",
     description:"An informative dashboard with notable AI models and it's usage in different fields",
-      image:"https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      image:"https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Ai_models.png",
     tags: [
      "Data Cleaning",
      "Tableau",
      "Python" 
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify-management.netlify.app/",
+    // github: "https://github.com/rishavchanda/Trackify",
+    // webapp: "https://trackify-management.netlify.app/",
   },
   {
     id: 0,
@@ -352,7 +352,7 @@ export const projects = [
     description:
       "An informative Tableau dashboard on Average salaries across different tech fields",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/Salaryfields.png",
     tags: ["Tableau", "Data Cleaning"],
     category: "web app",
     github: "https://github.com/rasaghnak/Salaries-in-tech-field/blob/main/README.md",
@@ -365,7 +365,7 @@ export const projects = [
     description:
       "A Dashboard on most Adulterated food products and food categories with high chemical percentages",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/food.png",
       tags: ["Tableau", "Data Cleaning"],
     category: "web app",
     github: "https://github.com/rasaghnak/Food-Adulteration-Trends-Dashboard",
@@ -378,7 +378,7 @@ export const projects = [
     description:
       "A simple tool that summarizes long text into concise, meaningful summaries using a pre-trained language model.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/summary.png",
     tags: ["Hugging Face Transformers", "Streamlit", "BART", "Python"],
     category: "machine learning",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
@@ -391,7 +391,7 @@ export const projects = [
     description:
       "An End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.",
     image:
-      "https://camo.githubusercontent.com/3ad28aa710d18525f1fc87de056ed53c706d09979589bfd5a773df36653bad38/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/stock.png",
     tags: ["AWS", "EC2", "Apache Kafka", "Glue", "Athena", "SQL"],
     category: "android app",
     github: "https://github.com/rasaghnak/Stock-Market-Real-Time-Data-Analysis/tree/main",
@@ -403,8 +403,8 @@ export const projects = [
     description:
       "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/voting.png",
+    tags: ["AWS", "EC2", "Apache Kafka", "Glue", "Athena"],
     category: "android app",
     github: "https://github.com/rasaghnak/Real-Time-Voting-system",
     // webapp: "https://github.com/rishavchanda/Job-finder-App",
@@ -455,7 +455,7 @@ export const projects = [
     description:
       "The project focuses on processing sales data to generate actionable insights, demonstrating my ability to work with cloud-native tools for data ingestion, transformation, and visualization.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/sales.png",
     tags: ["AWS", "AWS Glue", "AWS S3", "AWS Athena"],
     category: "android app",
     github: "https://github.com/rasaghnak/sales-analytics-with-aws",
@@ -468,11 +468,11 @@ export const projects = [
     description:
       "An app that generates captions for images using a pre-trained image-to-text model.",
     image:
-      "https://dontrepeatyourself.org/media/face-recognition-with-python-dlib-and-deep-learning_cezKZBj.png",
+      "https://raw.githubusercontent.com/rasaghnak/rasaghna_personal_portfolio/main/src/images/caption.png",
     tags: ["Transformers", "Pillow", "Streamlit", "BLIP", "Hugging Face", "Python"],
     category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+    github: "https://github.com/rasaghnak/AI-powered-Image-Caption-Generator",
+    // webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
   },
 ];
 
